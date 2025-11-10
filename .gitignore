@@ -1,0 +1,58 @@
+# Java compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# Maven
+target/
+.mvn/
+
+# Gradle
+.gradle/
+build/
+
+# Eclipse
+.metadata/
+.recommenders/
+.settings/
+*.classpath
+*.project
+.factorypath
+
+# IntelliJ IDEA
+*.iml
+*.ipr
+*.iws
+.idea/
+out/
+
+# NetBeans
+nbproject/private/
+nbbuild/
+dist/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*~
+*.tmp
+~$*
+
+# OneDrive / syncing files
+~*\n+*.onepkg
+
+# Other
+.classpath
+.project
+.settings/
